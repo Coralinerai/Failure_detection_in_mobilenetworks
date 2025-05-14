@@ -4,6 +4,11 @@
 
 A machine learning approach to proactively detect network failures using clustering techniques.
 
+This project was developed in collaboration with:
+
+Boudalal Oumaima @Coralinerai
+Antar Wiam 
+
 📌 Project Overview
 Goal: Develop a predictive system to detect failures in mobile networks using unsupervised learning (K-Means clustering) to classify network states as "failure" or "normal."
 
